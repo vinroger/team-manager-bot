@@ -41,7 +41,7 @@ client.on('messageCreate', async message =>{
 
 	//show GUIDE/ HELP for users
 	if(message.content === "<@!877212929504722975>"|| message.content === "<@877212929504722975>" || message.content === "$help"  ) {
-		let help = "Hii, I'm here to help you :)" + "\n";
+		let help = "Hii, I'm here to help you :)" + "\n" ;
 		help += "`$make                               `" +" -> " + "` to create new schedule for your team.`" + "\n";
 		help += "`$add <tag-a-person>, <tag-a-person> `" + " -> " +"` to add members. `"  + "\n";
 		help += "`$show                               `" + " -> " +"` to preview your schedule (auto-delete in 100s). `"  + "\n";
@@ -62,6 +62,11 @@ client.on('messageCreate', async message =>{
 		message.channel.send (help).then(msg => {
 			setTimeout(() => msg.delete(), 100000)
 		  });
+	}
+	let msgContent = message.content;
+	let trimmedMsg = msgContent.split(' ').join('');
+	if (trimmedMsg === "ily<@!877212929504722975>" || trimmedMsg === "ily<@877212929504722975>" ){
+		message.channel.send("I love you too! :heart:");
 	}
 	
     if(!message.content.startsWith(prefix) || message.author.bot) return;
@@ -110,6 +115,7 @@ client.on('messageCreate', async message =>{
 	if (command === "ily"){
 		message.channel.send("I love you too! :heart:");
 	}
+	
 
 
 	
