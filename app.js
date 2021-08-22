@@ -40,8 +40,9 @@ const prefix = '$';
 client.on('messageCreate', async message =>{
 
 	//show GUIDE/ HELP for users
-	if(message.content === "<@!877212929504722975>"|| message.content === "<@877212929504722975>" ) {
-		let help = "`$make                               `" +" -> " + "` to create new schedule for your team.`" + "\n";
+	if(message.content === "<@!877212929504722975>"|| message.content === "<@877212929504722975>" || message.content === "$help"  ) {
+		let help = "Hii, I'm here to help you :)" + "\n";
+		help += "`$make                               `" +" -> " + "` to create new schedule for your team.`" + "\n";
 		help += "`$add <tag-a-person>, <tag-a-person> `" + " -> " +"` to add members. `"  + "\n";
 		help += "`$show                               `" + " -> " +"` to preview your schedule (auto-delete in 100s). `"  + "\n";
 		help += "`$showhold                           `" + " -> " +"` to preview your schedule without dissapearing. `"  + "\n";
