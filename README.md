@@ -1,4 +1,4 @@
-# ComePlayWith-Me-
+# ComePlayWith-Me!
  
 ### A simple discord bot to manage a team or make an appointment with your friends!
 ###
