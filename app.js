@@ -115,6 +115,9 @@ client.on('messageCreate', async message =>{
 	if (command === "ily"){
 		message.channel.send("I love you too! :heart:");
 	}
+	if (command === "remove"){
+		client.commands.get('remove').execute(message, args);
+	}
 	
 
 
