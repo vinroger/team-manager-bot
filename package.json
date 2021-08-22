@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^0.5.0",
+    "akaneko": "^5.2.0",
+    "anime-images-api": "^2.0.0",
+    "discord.js": "^13.0.1",
+    "dotenv": "^10.0.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.13.7",
+    "mongoose-findorcreate": "^3.0.0",
+    "random-hub": "^1.0.0",
+    "redgif-dl": "^2.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "name": "discordbotjs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+"engines": {
+  "node": "16.6.1"
+},
+  "description": ""
+}
