@@ -53,7 +53,6 @@ module.exports = {
 					let exist = false;
 					for(var j =0; j< foundItem.members.length; j++){
 						if (addUser[i] == foundItem.members[j]) exist = true;
-                        else exist = false;
 					}
 					if (exist){
 						// foundItem.members.push(addUser[i]);
