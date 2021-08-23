@@ -30,7 +30,11 @@ for(const file of commandFiles){
 //Bot is ready
 client.once('ready', () => {
 	console.log('Bot is Ready!');
+	client.user.setActivity("$help", {
+		type: 'LISTENING'
+	});
 });
+
 
 //Prefix
 const prefix = '$';
