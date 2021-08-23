@@ -1,5 +1,5 @@
 // jshint: esversion6
-
+const mongoose = require("mongoose");
 const { bold, italic, strikethrough, underscore, spoiler, quote, blockQuote, codeBlock } = require('@discordjs/builders');
 const Discord = require('discord.js');
 const client = new Discord.Client({ intents: [Discord.Intents.FLAGS.GUILDS, Discord.Intents.FLAGS.GUILD_MESSAGES] });
@@ -12,8 +12,10 @@ const fs = require('fs');
 const _ = require("lodash");
 
 //mongodb init
-const mdb = require(__dirname + "/database/initialize.js")
-mdb.mongoInit();
+let db1 = process.env.DB1;
+mongoose.connect(db1, {useNewUrlParser: true, useUnifiedTopology: true});
+mongoose.set("useCreateIndex", true);
+
 
 //Schema
 const Schedule = require(__dirname +"/database/schedule.js");

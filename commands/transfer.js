@@ -39,7 +39,7 @@ module.exports = {
 					if(found) {
 						found.creator = target;
 						targetName =  await client.users.fetch(target.slice(2,20));
-				
+						
 						found.creatorName = targetName.username;
 						found.save();
 						coutTable(message, found);
