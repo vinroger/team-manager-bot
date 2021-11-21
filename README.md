@@ -2,7 +2,7 @@
 
 <a href="team-manager-bot.xyz">team-manager-bot.xyz</a>
 
-<br>
+
 ### Say no more to disorganized lobby. Plan your events flawlessly.
 
 A simple discord bot to manage a team or make an appointment with your friends!
@@ -13,9 +13,9 @@ Or tired of not getting a slot (because you are an introvert)?
 Don't worry brother, we got you. 
 Add this bot to allow you to join/ make a lobby in advance.
 So, you and your friends are happy! everyone's teaming up!
-<br>
 
-<br>
+
+
 ### With various commands. Well-built to serve you.
 
 1. Create, Read, Update, Delete Events/Schedule.
@@ -50,7 +50,7 @@ Learn how flawlessly you could plan an event or a gaming session
 2. Start adding members using "$add" or invite your friends to join using "$join".
 3. Let's play together! -- Call your friends using the command "$call"!
 4. Voila! Enjoy your gaming session with your friends! If you want to delete the event, use "$delete".
-
+<br>
 **Let's Team Up!**
 
 
