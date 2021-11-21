@@ -1,6 +1,6 @@
 # TeamManager Bot
 
-<a href="team-manager-bot.xyz">team-manager-bot.xyz</a>
+### <a href="team-manager-bot.xyz">team-manager-bot.xyz</a>
 
 
 ### Say no more to disorganized lobby. Plan your events flawlessly.
@@ -39,9 +39,7 @@ Tired of bot-spamming messages? Don't worry, we got you!
 TeamManager comes with Auto-Delete feature.
 
 Use "$show" to show events temporarily and use "$showhold" to show events permanently.
-<br>
 
-<br>
 ### How to exactly use our bot?
 <br>
 Learn how flawlessly you could plan an event or a gaming session
