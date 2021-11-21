@@ -44,11 +44,11 @@ Use "$show" to show events temporarily and use "$showhold" to show events perman
 <br>
 Learn how flawlessly you could plan an event or a gaming session
 <br>
-1. Use the command "$make" to start planning your event. Then, add details about the event.
-2. Start adding members using "$add" or invite your friends to join using "$join".
-3. Let's play together! -- Call your friends using the command "$call"!
+1. Use the command "$make" to start planning your event. Then, add details about the event. <br>
+2. Start adding members using "$add" or invite your friends to join using "$join". <br>
+3. Let's play together! -- Call your friends using the command "$call"! <br>
 4. Voila! Enjoy your gaming session with your friends! If you want to delete the event, use "$delete".
-<br>
+
 **Let's Team Up!**
 
 
