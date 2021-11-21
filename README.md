@@ -1,6 +1,6 @@
 # TeamManager Bot
 ### <a href="https://team-manager-bot.xyz">team-manager-bot.xyz</a>
-<p>Website Code :  
+<p>See The Website Code Repo :  
 <a href="https://github.com/vinroger/website-team-manager"><img height="20px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a></p>
 
 
