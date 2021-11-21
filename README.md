@@ -14,7 +14,7 @@ Don't worry brother, we got you.
 Add this bot to allow you to join/ make a lobby in advance.
 So, you and your friends are happy! everyone's teaming up!
 <br>
-<hr>
+
 <br>
 ### With various commands. Well-built to serve you.
 
@@ -40,7 +40,7 @@ TeamManager comes with Auto-Delete feature.
 
 Use "$show" to show events temporarily and use "$showhold" to show events permanently.
 <br>
-<hr>
+
 <br>
 ### How to exactly use our bot?
 <br>
@@ -51,7 +51,7 @@ Learn how flawlessly you could plan an event or a gaming session
 3. Let's play together! -- Call your friends using the command "$call"!
 4. Voila! Enjoy your gaming session with your friends! If you want to delete the event, use "$delete".
 
-# Let's Team Up!
+**Let's Team Up!**
 
 
 
