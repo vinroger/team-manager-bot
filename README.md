@@ -41,7 +41,7 @@ TeamManager comes with Auto-Delete feature.
 Use "$show" to show events temporarily and use "$showhold" to show events permanently.
 
 ### How to exactly use our bot?
-<br>
+
 Learn how flawlessly you could plan an event or a gaming session
 <br>
 1. Use the command "$make" to start planning your event. Then, add details about the event. <br>
