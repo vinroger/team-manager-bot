@@ -1,11 +1,12 @@
 # TeamManager Bot
 
 <a href="team-manager-bot.xyz">team-manager-bot.xyz</a>
- 
-### A simple discord bot to manage a team or make an appointment with your friends!
 
-# Say no more to disorganized lobby. Plan your events flawlessly.
+<br>
+### Say no more to disorganized lobby. Plan your events flawlessly.
 
+A simple discord bot to manage a team or make an appointment with your friends!
+<br>
 Tired of not getting friends for gaming?
 Or tired of not getting a slot (because you are an introvert)?
 <br>
@@ -15,7 +16,7 @@ So, you and your friends are happy! everyone's teaming up!
 <br>
 <hr>
 <br>
-# With various commands. Well-built to serve you.
+### With various commands. Well-built to serve you.
 ----
 1. Create, Read, Update, Delete Events/Schedule.
 
@@ -23,7 +24,7 @@ So, you and your friends are happy! everyone's teaming up!
 
 3. Transferrable ownership system.
 
-# Integrated leaderboard/scoring system.
+### Integrated leaderboard/scoring system.
 ----
 1. Automatic points increase/reduce.
 
@@ -31,7 +32,7 @@ So, you and your friends are happy! everyone's teaming up!
 
 3. Intergrated server leaderboard.
 
-# No spamming server.
+### No spamming server.
 ----
 Tired of bot-spamming messages? Don't worry, we got you!
 
@@ -41,7 +42,8 @@ Use "$show" to show events temporarily and use "$showhold" to show events perman
 <br>
 <hr>
 <br>
-## How to exactly use our bot?
+### How to exactly use our bot?
+<br>
 Learn how flawlessly you could plan an event or a gaming session
 ----
 1. Use the command "$make" to start planning your event. Then, add details about the event.
