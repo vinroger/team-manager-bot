@@ -8,14 +8,15 @@
 
 Tired of not getting friends for gaming?
 Or tired of not getting a slot (because you are an introvert)?
-
+<br>
 Don't worry brother, we got you. 
 Add this bot to allow you to join/ make a lobby in advance.
 So, you and your friends are happy! everyone's teaming up!
-
-
-#With various commands. Well-built to serve you.
+<br>
 <hr>
+<br>
+#With various commands. Well-built to serve you.
+----
 1. Create, Read, Update, Delete Events/Schedule.
 
 2. Call Function to call your friends.
@@ -23,7 +24,7 @@ So, you and your friends are happy! everyone's teaming up!
 3. Transferrable ownership system.
 
 #Integrated leaderboard/scoring system.
-<hr>
+----
 1. Automatic points increase/reduce.
 
 2. Easily retrieve server members' points.
@@ -31,17 +32,18 @@ So, you and your friends are happy! everyone's teaming up!
 3. Intergrated server leaderboard.
 
 #No spamming server.
-<hr>
+----
 Tired of bot-spamming messages? Don't worry, we got you!
 
 TeamManager comes with Auto-Delete feature.
 
 Use "$show" to show events temporarily and use "$showhold" to show events permanently.
-
-
+<br>
+<hr>
+<br>
 #How to exactly use our bot?
 Learn how flawlessly you could plan an event or a gaming session
-<hr>
+----
 1. Use the command "$make" to start planning your event. Then, add details about the event.
 2. Start adding members using "$add" or invite your friends to join using "$join".
 3. Let's play together! -- Call your friends using the command "$call"!
