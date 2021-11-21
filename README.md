@@ -1,6 +1,6 @@
 # TeamManager Bot
 
-### <a href="team-manager-bot.xyz">team-manager-bot.xyz</a>
+### <a href="https://team-manager-bot.xyz">team-manager-bot.xyz</a>
 
 
 ### Say no more to disorganized lobby. Plan your events flawlessly.
